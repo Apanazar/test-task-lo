@@ -27,7 +27,7 @@ cd test-task-lo
 go run ./cmd
 ```
 
-Остановка: `Ctrl+C` (graceful shutdown за 5 секунд).
+Остановка: `Ctrl+C`
 
 ---
 
